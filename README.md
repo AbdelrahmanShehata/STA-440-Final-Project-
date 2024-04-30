@@ -1,0 +1,7 @@
+# The Impact of COVID-19 on Musical Characteristics of Popular Songs on Spotify
+
+by Abdel Shehata 
+
+## Summary of project
+
+This project aims to investigate the potential impact of the COVID-19 pandemic on the music consumption patterns of young Spotify users in the United States. By analyzing data from Spotify's "Top 200" charts between 2016 and 2021, we explore whether there were notable changes in the popularity and characteristics of the most-streamed songs before and during the pandemic period. Using an interrupted time series analysis, we examine various aspects of the top-charting songs, including their musical attributes, artist diversity, and thematic content. By leveraging the weekly aggregated data and controlling for seasonal effects, we provide insights into how the pandemic may have influenced the musical preferences and consumption habits of young people, who make up a significant portion of Spotify's user base. The findings of this study contribute to the broader discussion of the cultural and psychological impacts of the pandemic on younger generations and shed light on the role that music played in providing comfort, connection, and self-expression during a time of unprecedented global upheaval. Copy

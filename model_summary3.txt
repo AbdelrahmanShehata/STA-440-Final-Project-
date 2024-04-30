@@ -1,0 +1,29 @@
+
+Results of GLS Models for Musical Features
+==================================================
+                           Dependent variable:    
+                       ---------------------------
+                                af_tempo          
+--------------------------------------------------
+time                            -0.001**          
+                                (0.0004)          
+                                                  
+intervention                      0.486           
+                                 (0.398)          
+                                                  
+post_intervention_time            0.001           
+                                 (0.001)          
+                                                  
+holiday                          0.506*           
+                                 (0.265)          
+                                                  
+Constant                       122.526***         
+                                 (0.236)          
+                                                  
+--------------------------------------------------
+Observations                       261            
+Log Likelihood                  -477.986          
+Akaike Inf. Crit.                971.972          
+Bayesian Inf. Crit.             1,000.488         
+==================================================
+Note:                  *p<0.1; **p<0.05; ***p<0.01
