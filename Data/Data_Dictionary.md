@@ -32,3 +32,8 @@ This dataset contains information about various tracks on Spotify, tracking thei
 - **af_valence**: A measure from 0.0 to 1.0 describing the musical positiveness conveyed by a track.
 - **af_tempo**: The overall estimated tempo of a track in beats per minute (BPM).
 - **af_time_signature**: An estimated overall time signature of a track.
+
+# Data Acess
+Please use this link to access the Filtered dataset used for this study. We were unable to provide the dataset in the github due to its size.
+https://drive.google.com/file/d/1-1N-7zl4v8aAl9J39pnX0KIwYWIWFGuY/view?usp=sharing
+
